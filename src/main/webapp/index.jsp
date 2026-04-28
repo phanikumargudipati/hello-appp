@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>Consistency is the key to success Harika gii</h1>
+<h1>Consistency is the key to success and it depends on u</h1>
 </body>
 </html>
